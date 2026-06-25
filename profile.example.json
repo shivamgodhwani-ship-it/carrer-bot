@@ -1,0 +1,31 @@
+{
+  "name": "Your Name",
+  "college": "Your College / University",
+  "degree": "Your Degree Program",
+  "sgpa": "X.X",
+  "skills": [
+    "Brand Strategy",
+    "GTM Execution",
+    "Analytical Thinking"
+  ],
+  "experience": [
+    {
+      "role": "Role Title",
+      "org": "Organisation Name",
+      "description": "What you did — results, scale, impact."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "What you built or did and the outcome."
+    }
+  ],
+  "interests": [
+    "Growth Marketing",
+    "Startups",
+    "AI and Technology"
+  ],
+  "location": "City, open to remote",
+  "availability": "Immediately"
+}

@@ -1,0 +1,40 @@
+# Environment
+.env
+*.env
+
+# Generated data files (contain personal job/application data)
+jobs.json
+filtered_jobs.json
+application_log.json
+tailored_*.json
+
+# Resume (personal document)
+resume.pdf
+profile.json
+
+# Screenshots folder (personal application records)
+screenshots/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dashboard build output
+dashboard_ui/
